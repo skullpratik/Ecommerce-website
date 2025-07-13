@@ -20,14 +20,6 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![jwt](	https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
 
-**Payment Gateway:**
-
-![paytm](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)
-
-**Cloud Storage:** [Cloudinary](https://cloudinary.com/)
-
-**Mail Service:** [Sendgrid](https://sendgrid.com/)
-
 ## 🚀 Features
 
 **User Account Management**
@@ -73,7 +65,7 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 - Stock Management: 📉 Product stock is automatically decreased upon shipment.
 
 ## Sneak Peek of Admin Dashboard 🙈 :
-![Capture](https://user-images.githubusercontent.com/64949957/153995268-0cb769b9-e0ee-48ea-83c1-09b881df4101.PNG)
+
 
 <table>
   <tr>
@@ -86,9 +78,3 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
   </tr>
 </table>
 
-<h2>📬 Contact</h2>
-
-Feel free to reach me through the below handles if you'd like to contact me.
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sablee)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jigarsable.dev)
